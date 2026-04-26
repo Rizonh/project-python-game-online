@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+}
+
+div{
+    width: alto;
+    height: alto;
+    display: flex;
+    background-color: #3333;
+}
